@@ -1,2 +1,11 @@
 **/.terraform/
 **/terraform.tfvars
+**/.terraform.lock.hcl
+**/*.tfstate
+**/*.tfstate.*
+**/*~
+**/override.tf
+**/override.tf.json
+**/*.auto.tfvars
+**/*.auto.tfvars.json
+**/levelup_key*
